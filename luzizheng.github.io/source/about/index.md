@@ -1,9 +1,9 @@
 ---
-title: 个人简介
+title: 個人簡介
 date: 2020-11-03
 aubot: 我叫Luzz
 portrait: 'https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/avatar.png'
-describe: '一个无聊的人，有时敲敲代码，有时弹弹棉花，有时饮饮喜茶...'
+describe: '一個無聊的人，有時寫下代碼，有時彈下吉他，有時飲下喜茶...'
 type: "about"
 layout: "about"
 ---

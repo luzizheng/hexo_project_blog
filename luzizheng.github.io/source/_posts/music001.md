@@ -3,9 +3,9 @@ title: John Frusciante
 excerpt: John Motherfxxker Frusciante!!!
 date: 2021-11-26 11:57:09
 tags: 
-    - 音乐
+    - 音樂
     - 吉他
-categories: 关于音乐
+categories: 關於音樂
 cover: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/John_frusciante_hills_observatory_press_pic_aura_t-09.jpeg
 ---
 

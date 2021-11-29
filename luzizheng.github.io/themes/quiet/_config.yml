@@ -5,7 +5,7 @@ suffix: blog
 # 作者名称(会显示在首页文章下面)
 author: Luzz
 # 首页简介（显示在首页顶部Logo的那句话）
-home_describe: 一个无聊的博客
+home_describe: 一個無聊的網站
 # 网站关键字
 keyword: luzz,arloou,blog
 is_article_img: true  #false是否开启文章背景图显示(随机图片)
@@ -13,12 +13,12 @@ is_article_img: true  #false是否开启文章背景图显示(随机图片)
 web_description: 描述
 # 导航名称
 menus_title:
-  home: 首页
-  archive: 归档
-  categories: 分类
-  tags: 标签
-  links: 链接
-  about: 关于
+  home: 首頁
+  archive: 歸檔
+  categories: 分類
+  tags: 標籤
+  links: 鏈接
+  about: 關於
 # 导航 （不建议修改）
 menus:
   home: /

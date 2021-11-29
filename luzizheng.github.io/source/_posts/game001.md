@@ -1,9 +1,10 @@
 ---
 title: 饥荒联机版控制台代码大全
 date: 2021-11-26 11:57:09
-tags: 游戏 
-categories: 第九艺术探索
+tags: 遊戲 
+categories: 第九藝術探索
 cover: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/dont-starve-together-commands.jpeg
+banner: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/dont-starve-together-commands.jpeg
 ---
 
 

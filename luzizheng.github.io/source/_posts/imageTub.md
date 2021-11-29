@@ -1,7 +1,7 @@
 ---
 title: 利用github+jsDelivr搭建图床
 date: 2021-11-26 11:57:09
-tags: 基本技巧
+tags: 程序員技術
 categories: 我的Coding生涯
 cover: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/desk_flat.jpeg
 ---
