@@ -17,7 +17,7 @@ menus_title:
   archive: 归档
   categories: 分类
   tags: 标签
-  links: 友链
+  links: 链接
   about: 关于
 # 导航 （不建议修改）
 menus:
@@ -25,6 +25,7 @@ menus:
   categories: /categories
   tags: /tags
   archive: /archives
+  links: /links
   about: /about
 
 # logo
