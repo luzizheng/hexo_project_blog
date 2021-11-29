@@ -1,0 +1,62 @@
+<div class="Last-Next">
+    <% if(page.prev) {%>
+    <a href="<%- url_for(page.prev.path) %>">
+        <div class="last">
+            <span>上一篇</span>
+            <p><%= page.prev.title %></p>
+        </div>
+    </a>
+    <% } %>
+
+    <% if(page.next) {%>
+    <a href="<%- url_for(page.next.path) %>">
+        <div class="next">
+            <span>下一篇</span>
+            <p><%= page.next.title %></p>
+        </div>
+    </a>
+    <% } %>
+</div>
+
+<script src='//unpkg.com/valine/dist/Valine.min.js'></script>
+<div id="vcommentscontainer">
+    <div id="vcomments"></div>
+</div>
+
+<style>
+#vcommentscontainer{
+    display: flex;
+    max-width: 980px;
+    flex-direction: column;
+    margin: 20px auto;
+    border-radius: 10px;
+    background-size: 100% 100%;
+    opacity: .8;
+    cursor: pointer;
+    transition: all .5s ease-in-out;
+}
+#vcommentscontainer:hover {
+    margin-top: -10px;
+    box-shadow: 0 10px 40px 0 rgba(50, 50, 50, .1);
+    opacity: 1.0
+}
+#vcomments {
+    margin: 0%;
+    transition: all .5s ease-in-out;
+}
+#vcomments:hover {
+    margin: 1.5%
+}
+</style>
+<script>
+	new Valine({
+		el: '#vcomments',
+		appId: '3Lh0GKyEIALmiL1dn2R7FFdX-gzGzoHsz',
+		appKey: 'EXbbH3b44RhWQUBMXvJ11UMp',
+        placeholder: 'up翻几句先啦~！'
+	})
+</script>
+<script>
+	var pb = document.getElementsByClassName("vpower txt-right")
+	pb[0].style.visibility='hidden'
+</script>
