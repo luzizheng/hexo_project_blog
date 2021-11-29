@@ -118,13 +118,13 @@ linksList:
     title: 'Instagram',
     intro: '@luzizheng',
     link: 'https://www.instagram.com/luzizheng/',
-    image: 'https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/social-instagram.png'
+    image: 'https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/Instagram-Logo.png'
   }
   - {
-    title: '网抑云',
-    intro: '@_Async_',
-    link: 'https://music.163.com/user/home?id=18065540',
-    image: 'https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/neteasymusic_socail.png'
+    title: 'Bandcamp',
+    intro: '@luzz0616',
+    link: 'https://bandcamp.com/luzz0616',
+    image: 'https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/bandcamp.png'
   }
 # 文字内点击图片放大相关配置
 picture:
