@@ -6,7 +6,7 @@ tags:
     - 音乐
     - 吉他
 categories: 关于音乐
-cover: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/Marvin_2018_John_Frusciante.jpeg
+cover: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/John_frusciante_hills_observatory_press_pic_aura_t-09.jpeg
 ---
 
 <img src="https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/John-Frusciante-scaled.jpeg" alt="img" style="zoom:75%;" />

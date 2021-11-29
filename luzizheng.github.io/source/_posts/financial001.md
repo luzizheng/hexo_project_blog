@@ -3,7 +3,7 @@ title: 小白理财金融产品
 date: 2021-11-29 09:43:51
 tags: 理财
 categories: 小白理财
-cover: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/financial-abuse.jpeg
+cover: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/stock-vector-flat-design-illustration-concepts-for-business-analysis-and-planning-team-work-financial-report-302821412.jpeg
 ---
 
 ## 国债逆回购
