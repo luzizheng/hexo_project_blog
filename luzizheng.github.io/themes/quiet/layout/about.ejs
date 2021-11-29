@@ -20,3 +20,29 @@
 <script>
     $(function () { $('.article-content').addClass('content-move') })
 </script>
+
+<div class="links-content">
+    <div class="content">
+        <% for(const each of theme.linksList || []) { %>
+            <div class="oneLink">
+                <a href="<%- each.link %>">
+                    <div class="lcen">
+                        <div class="UserLinkImg">
+                            <img src="<%- each.image %>" alt="Quiet">
+                        </div>
+                        <div class="LinkRight">
+                            <h1>
+                                <%- each.title %>
+                            </h1>
+                            <span>
+                                <%- each.intro %>
+                            </span>
+                        </div>
+                    </div>
+                </a>
+            </div>
+            <% } %>
+    </div>
+</div>
+<script>$(function () { $('.links-content').addClass('content-move'); })</script>
+

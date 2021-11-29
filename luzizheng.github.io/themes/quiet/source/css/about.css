@@ -58,6 +58,25 @@
         flex-direction: column;
         align-items: center;
     }
+
+    .links-content .content {
+        display: flex;
+        max-width: 900px;
+        padding: 64px 40px;
+        font-size: 18px;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+
+    .links-content {
+        display: flex;
+        max-width: 1160px;
+        margin: 0 auto;
+        background: rgb(255, 255, 255);
+        border-radius: 10px;
+        flex-direction: column;
+        align-items: center;
+    }
 }
 
 @media screen and (max-width:600px) {
@@ -78,6 +97,26 @@
         font-size: 1.1em;
         flex-direction: column;
     }
+
+    .links-content {
+        display: flex;
+        max-width: 1160px;
+        margin: 0 auto;
+        padding: 64px 16px;
+        background: rgb(255, 255, 255);
+        border-radius: 10px;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .links-content .content {
+        display: flex;
+        width: 100%;
+        font-size: 1.1em;
+        flex-direction: column;
+    }
+
+    
 }
 
 .article-content img {
@@ -96,5 +135,90 @@
     margin-bottom: 20px;
     font-weight: 500;
     line-height: 1.2;
+    margin-top: 20px;
+}
+
+.links-content img {
+    display: flex;
+    width: 100%;
+    height: 100%;
+}
+
+.content-move {
+    margin-top: -64px;
+    transition: margin-top .8s ease-in-out;
+}
+
+.oneLink {
+    display: flex;
+    padding: 20px;
+    margin-right: 10px;
+    border-radius: 10px;
+    margin-bottom: 50px;
+    background: #ffffff;
+    position: relative;
+    top: 0;
+    transition: ease-in-out;
+    -moz-transition: all .4s;
+    -webkit-transition: all .4s;
+    -o-transition: all .4s;
+}
+
+.oneLink:hover {
+    background: #F8F9FB;
+    top: -10px;
+    box-shadow: 0 10px 10px 0 rgba(50, 50, 50, 0.1);
+}
+
+.oneLink a {
+    width: 100%;
+    height: 100%;
+    text-decoration: none;
+    color: #333333;
+}
+
+.oneLink .lcen {
+    display: flex;
+}
+
+.oneLink .lcen .UserLinkImg {
+    display: flex;
+    width: 48px;
+    height: 48px;
+}
+
+.oneLink .lcen .UserLinkImg img {
+    border-radius: 0%;
+}
+
+.LinkRight {
+    display: flex;
+    flex-direction: column;
+    min-width: 166px;
+    padding-left: 10px;
+    padding-top: 6px;
+}
+
+.LinkRight h1 {
+    max-width: 170px;
+    color: #3C4858;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-weight: 500;
+    font-size: 16px;
+}
+
+.LinkRight span {
+    max-width: 170px;
+    color: #718096;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    font-size: 14px;
+}
+
+.info {
+    width: 100%;
     margin-top: 20px;
 }
