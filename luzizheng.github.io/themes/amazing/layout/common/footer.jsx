@@ -59,10 +59,8 @@ class Footer extends Component {
                         <a class="footer-logo is-block mb-2" href={siteUrl}>
                             {footerLogo}
                         </a>
-                        {/* <p class="size-small">
+                        <p class="size-small">
                             <span dangerouslySetInnerHTML={{ __html: `&copy; ${siteYear} ${author || siteTitle}` }}></span>
-                            &nbsp;&nbsp;Powered by <a href="https://hexo.io/" target="_blank">Hexo</a> & <a
-                                href="https://github.com/ppoffice/hexo-theme-icarus" target="_blank">Icarus</a> & <a href="https://github.com/removeif/hexo-theme-amazing" target="_blank">Amazing</a>&nbsp;
                             <br />
                             {registeredNo ? <span>&copy; <a href="http://www.beian.miit.gov.cn/" target="_blank">{registeredNo}</a><br /></span> : null}
                             {footerCopyrightDsec ? <span dangerouslySetInnerHTML={{ __html: footerCopyrightDsec }}></span> : null}
@@ -72,7 +70,7 @@ class Footer extends Component {
                                 <br />
                             </span> : null}
                             {showVisitorCounter ? <div class="size-small"><span dangerouslySetInnerHTML={{ __html: visitorCounterTitle }}></span></div> : null}
-                        </p> */}
+                        </p>
                     </div>
                     <div class="level-end">
                         {Object.keys(links).length ? <div class="field has-addons">

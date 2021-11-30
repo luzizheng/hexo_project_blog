@@ -32,7 +32,10 @@
     width: 56px;
     height: 56px;
 }
-
+.header-bg .bg-content span img:hover{
+    transform: rotate(360deg);
+    transition: transform 1s linear;
+}
 .header-bg .bg-content h2 {
     display: flex;
     margin-top: 4px;

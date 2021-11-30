@@ -1,13 +1,23 @@
 ---
-title: 個人簡介
-date: 2020-11-03
-aubot: 我叫Luzz
-portrait: 'https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/avatar.png'
-describe: '一個無聊的人，有時寫下代碼，有時彈下吉他，有時飲下喜茶...'
-type: "about"
-layout: "about"
+thumbnail: https://cdn.jsdelivr.net/gh/removeif/blog_image/img/2020/20201030172650.png
+date: 2018-11-11 08:24:49
+comments: false
 ---
 
+<center>
 
+#### 關於Luzz
+<br>
+一個無聊的人<br><br>  
+有時寫下代碼<br><br>
+有時彈下吉他<br><br>
+有時飲下喜茶<br><br>
 
-> Could we just stop talking and have a glass of Bach?
+</center>
+
+<div class="time-axis-main">
+	<ul class="time-axis"></ul>
+</div>
+<script src="/js/about-me.js"></script>
+<br>
+<br>
