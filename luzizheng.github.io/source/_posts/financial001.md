@@ -7,19 +7,17 @@ cover: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/stock-vector-flat
 ---
 
 ## 国债逆回购
-  
-
-![img](https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/nihuigou.jpeg)  
-  
-    
-
 
 - 优点：零风险
 - 缺点：（陷阱）实际资金占用时间，1是证券公司要拖延1个工作日回款，2是周末不计入国债回购时间。所以有结论说**连续做上1年国债逆回购，年收益率也不会超过1年定期存款的**。
 
-## 可转债  
+<br>
 
-![img](https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/kezhuanzhai.png)
+![img](https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/financial_01.png)
+<br>
+
+
+## 可转债  
 
 - ### 通俗理解  
   比如有个人想开公司创业，需要钱，来找我合伙，我不太了解这个人，所以对他的经营不太放心。于是我跟他定了一个契约：  
@@ -30,6 +28,10 @@ cover: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/stock-vector-flat
   1. **一张保底债券，说的就是到期还本付息。**
   2. **一张看涨期权，说的就是公司在未来有可能发展地很好，股价节节攀升，那我就可以变成公司股东，赚大钱。**
 
+<br>
+
+![img](https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/financial_02.png)
+<br>
 - ### 可转债打新  
   就是指在可转债还没有上市交易之前，公司开放一个机会，让大家买对应的可转债，这里的买，指的是申购。  
 
