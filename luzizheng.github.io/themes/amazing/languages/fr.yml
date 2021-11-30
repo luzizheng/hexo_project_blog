@@ -6,8 +6,8 @@ common:
         one: 'Catégorie'
         other: 'Catégories'
     tag:
-        one: '标签'
-        other: '标签'
+        one: 'Tag'
+        other: 'Tags'
     post:
         one: 'Article'
         other: 'Articles'

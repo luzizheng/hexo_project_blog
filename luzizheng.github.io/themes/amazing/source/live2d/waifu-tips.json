@@ -17,12 +17,12 @@
             "default": ["嗨~ 快来逗我玩吧！"]
         },
         "referrer_message": {
-            "localhost": ["欢迎阅读<span style=\"color:#0099cc;\">『", "』</span>", " - "],
+            "localhost": ["欢迎来到<span style=\"color:#0099cc;\">『", "』</span>", " - "],
             "baidu": ["Hello! 来自 百度搜索 的朋友<br>你是搜索 <span style=\"color:#0099cc;\">", "</span> 找到的我吗？"],
             "so": ["Hello! 来自 360搜索 的朋友<br>你是搜索 <span style=\"color:#0099cc;\">", "</span> 找到的我吗？"],
-            "google": ["Hello! 来自 谷歌搜索 的朋友<br>欢迎阅读<span style=\"color:#0099cc;\">『", "』</span>", " - "],
+            "google": ["Hello! 来自 谷歌搜索 的朋友<br>欢迎来到<span style=\"color:#0099cc;\">『", "』</span>", " - "],
             "default": ["Hello! 来自 <span style=\"color:#0099cc;\">", "</span> 的朋友"],
-            "none": ["欢迎阅读<span style=\"color:#0099cc;\">『", "』</span>", " - "]
+            "none": ["欢迎来到<span style=\"color:#0099cc;\">『", "』</span>", " - "]
         },
         "referrer_hostname": {
             "example.com": ["示例网站"],
@@ -40,7 +40,6 @@
         }
     },
     "mouseover": [
-        { "selector": ".container a[href^='http']", "text": ["要看看 <span style=\"color:#0099cc;\">{text}</span> 么？"] },
         { "selector": ".fui-home", "text": ["点击前往首页，想回到上一页可以使用浏览器的后退功能哦"] },
         { "selector": ".fui-chat", "text": ["一言一语，一颦一笑。一字一句，一颗赛艇。"] },
         { "selector": ".fui-eye", "text": ["嗯··· 要切换 看板娘 吗？"] },
@@ -70,17 +69,17 @@
         { "selector": "c-player div.volume", "text": ["在这里可以调整<span style=\"color:#0099cc;\">音量</span>呢"] },
         { "selector": "c-player div.list-button", "text": ["<span style=\"color:#0099cc;\">播放列表</span>里都有什么呢"] },
         { "selector": "c-player div.lyric-button", "text": ["有<span style=\"color:#0099cc;\">歌词</span>的话就能跟着一起唱呢"] },
-        { "selector": ".waifu #live2d", "text": ["干嘛呢你，快把手拿开", "鼠…鼠标放错地方了！"] }
+        { "selector": ".waifu #live2d", "text": ["做乜野吖，放開只咸豬手啦！", "唔好掂我哦！"] }
     ],
     "click": [
         {
             "selector": ".waifu #live2d",
             "text": [
-                "是…是不小心碰到了吧",
-                "萝莉控是什么呀",
-                "你看到我的小熊了吗",
-                "再摸的话我可要报警了！⌇●﹏●⌇",
-                "110吗，这里有个变态一直在摸我(ó﹏ò｡)"
+                "系...系未唔小心掂到啊？",
+                "搞咩呀？",
+                "你有冇睇到我只熊仔起边度？",
+                "再摸嘅话我就要报警啦！⌇●﹏●⌇",
+                "110吗，呢度有个变态一直摸我(ó﹏ò｡)"
             ]
         }
     ],
