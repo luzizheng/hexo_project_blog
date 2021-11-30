@@ -28,10 +28,10 @@ head:
         site_name: Arloou's Website
         # Page author (article:author) (optional)
         # You should leave this blank for most of the time
-        author: 
+        author: Luzz
         # Page description (og:description) (optional)
         # You should leave this blank for most of the time
-        description: 
+        description: Personal Website 
         # Twitter card type (twitter:card)
         twitter_card: 
         # Twitter ID (twitter:creator)
@@ -58,7 +58,7 @@ head:
         url: 
         # Page author (article:author) (optional)
         # You should leave this blank for most of the time
-        author: 
+        author: Luzz
         # Page images (optional)
         # You should leave this blank for most of the time
         image: 
@@ -77,34 +77,34 @@ navbar:
         Archives: /archives
         Categories: /categories
         Tags: /tags
-        About: /about
-        Album: /album
-        Friend: /friend
+        # Album: /album
+        # Friend: /friend
         Message: /message
-        Self-talking: /self-talking
+        # Self-talking: /self-talking
         Music: /music
-        Media: /media
+        # Media: /media
+        About: /about
     # Links to be shown on the right of the navigation bar
     links:
-        Join Gitter:
-            icon: fab fa-gitter
-            url: 'https://gitter.im/hexo-theme-amazing/community'
-        Download on GitHub:
-            icon: fab fa-github
-            url: 'https://github.com/removeif/hexo-theme-amazing'
+        # Join Gitter:
+        #     icon: fab fa-gitter
+        #     url: 'https://gitter.im/hexo-theme-amazing/community'
+        # Download on GitHub:
+        #     icon: fab fa-github
+        #     url: 'https://github.com/removeif/hexo-theme-amazing'
 # Page footer configurations
 footer:
     # Links to be shown on the right of the footer section
     links:
-        Creative Commons:
-            icon: fab fa-creative-commons
-            url: 'https://creativecommons.org/'
-        Attribution 4.0 International:
-            icon: fab fa-creative-commons-by
-            url: 'https://creativecommons.org/licenses/by/4.0/'
+        # Creative Commons:
+        #     icon: fab fa-creative-commons
+        #     url: 'https://creativecommons.org/'
+        # Attribution 4.0 International:
+        #     icon: fab fa-creative-commons-by
+        #     url: 'https://creativecommons.org/licenses/by/4.0/'
         Download on GitHub:
             icon: fab fa-github
-            url: 'https://github.com/removeif/hexo-theme-amazing'
+            url: 'https://github.com/luzizheng/'
 # Article related configurations
 article:
     # Code highlight settings
@@ -278,14 +278,14 @@ widgets:
                 url: /atom.xml
         has_hitokoto: true
     # Recommendation links widget configurations
-    -
-        # Where should the widget be placed, left sidebar or right sidebar
-        position: left
-        type: links
-        # Names and URLs of the sites
-        links:
-            Hexo: 'https://hexo.io'
-            Bulma: 'https://bulma.io'
+    # -
+    #     # Where should the widget be placed, left sidebar or right sidebar
+    #     position: left
+    #     type: links
+    #     # Names and URLs of the sites
+    #     links:
+    #         Hexo: 'https://hexo.io'
+    #         Bulma: 'https://bulma.io'
     # Latest comment widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
