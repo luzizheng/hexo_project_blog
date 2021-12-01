@@ -7,7 +7,7 @@ logo: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/1638254791_175610.
 # Page metadata configurations
 head:
     # URL or path to the website's icon
-    favicon: /image/favicon.ico #/img/favicon.svg
+    favicon: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/8bitfavicon.ico #/img/favicon.svg
     # Open Graph metadata
     # https://hexo.io/docs/helpers.html#open-graph
     open_graph:
@@ -253,7 +253,7 @@ widgets:
         # Author's current location
         location: 蕾姆莉亞
         # URL or path to the avatar image
-        avatar: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/avatar.png
+        avatar: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/8bitavatar.jpg
         # Whether show the rounded avatar image
         avatar_rounded: true
         # Email address for the Gravatar
