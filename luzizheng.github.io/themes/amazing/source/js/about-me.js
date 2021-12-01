@@ -20,3 +20,6 @@ $(function () { // 获取记录数据
     })
 });
 
+
+var pb = document.getElementsByClassName("vpower txt-right")
+pb[0].style.visibility='hidden'

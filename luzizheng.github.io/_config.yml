@@ -8,7 +8,7 @@ subtitle: ''
 description: ''
 keywords:
 author: Luzz
-language: en
+language: zh-CN
 timezone: ''
 
 # URL
@@ -107,3 +107,8 @@ deploy:
   type: git
   repository: git@github.com:luzizheng/luzizheng.github.io.git
   branch: main
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20

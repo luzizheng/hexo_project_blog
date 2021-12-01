@@ -140,6 +140,7 @@ function addCommentInfo(result, resultArr, item, endIndex, i, contentStr) {
     // 请求完之后渲染
     if (endIndex == i) {
         dealWithResultArr(resultArr);
+        
     }
 }
 

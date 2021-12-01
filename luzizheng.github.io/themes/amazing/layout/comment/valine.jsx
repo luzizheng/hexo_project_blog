@@ -18,7 +18,6 @@ class Valine extends Component {
             path,
             lang,
             enableQQ = true,
-            requiredFields,
         } = this.props;
         if (!appId || !appKey) {
             return <div class="notification is-danger">
@@ -42,12 +41,15 @@ class Valine extends Component {
             recordIP: ${recordIp},
             path:'${path}',
             lang:'${lang}',
-            enableQQ:${enableQQ},
-            requiredFields:${JSON.stringify(requiredFields)}
+            enableQQ:${enableQQ}
         });`;
         return <Fragment>
             <div id="comment-container" class="content"></div>
             <script dangerouslySetInnerHTML={{ __html: js }}></script>
+            <script>
+	            var pb = document.getElementsByClassName("vpower txt-right");
+	            pb[0].style.visibility='hidden';
+            </script>
         </Fragment>;
     }
 }
@@ -70,6 +72,5 @@ module.exports = Valine.Cacheable = cacheComponent(Valine, 'comment.valine', pro
         recordIp: comment.record_ip,
         path: "/" + page.path,
         lang: comment.lang || __('article.comments_language'),
-        requiredFields: comment.required_fields,
     };
 });
