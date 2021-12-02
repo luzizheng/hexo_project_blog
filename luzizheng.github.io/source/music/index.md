@@ -1,7 +1,7 @@
 ---
 title: 聽首歌仔先啦
 date: 2019-07-30 10:43:45
-thumbnail: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/wp2088510-flat-design-wallpapers.jpg
+thumbnail: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/AchingUnsightlyHarrierhawk-small.gif
 ---
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
@@ -15,7 +15,7 @@ thumbnail: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/wp2088510-fla
     userid="18065540"
     theme="#2980b9"
     loop="all"
-    autoplay="false"
+    autoplay="true"
     order="list"
     storageName="aplayer-setting"
     lrctype= 0

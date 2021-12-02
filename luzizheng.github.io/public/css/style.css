@@ -12269,7 +12269,7 @@ textarea {
   font-family: 'Monda', "PingFang SC", "Microsoft YaHei", sans-serif;
 }
 body {
-  background: url("/img/background.png");
+  background: url("https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/cloudgif.gif");
 }
 .img-x {
   position: relative;
