@@ -1,3 +1,7 @@
+@font-face {
+  font-family: 'JackeyFont';
+  src: url("/css/fonts/Pixel.ttf");
+}
 @-moz-keyframes spinAround {
   from {
     transform: rotate(0deg);
@@ -12260,6 +12264,10 @@ hr {
 }
 .aplayer .aplayer-miniswitcher {
   background: #fff !important;
+}
+@font-face {
+  font-family: 'JackeyFont';
+  src: url("/css/fonts/Pixel.ttf");
 }
 body,
 button,

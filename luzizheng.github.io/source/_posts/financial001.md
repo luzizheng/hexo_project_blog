@@ -1,9 +1,10 @@
 ---
 title: 小白理财金融产品
-date: 2021-11-29 09:43:51
+date: 2018-11-29 09:43:51
 tags: 理財
 categories: 小白理财
 cover: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/stock-vector-flat-design-illustration-concepts-for-business-analysis-and-planning-team-work-financial-report-302821412.jpeg
+recommend: 0
 ---
 
 ## 国债逆回购
@@ -13,7 +14,7 @@ cover: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/stock-vector-flat
 
 <br>
 
-![img](https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/financial_01.png)
+![](https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/financial_01.png)
 <br>
 
 
@@ -30,7 +31,7 @@ cover: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/stock-vector-flat
 
 <br>
 
-![img](https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/financial_02.png)
+![](https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/financial_02.png)
 <br>
 - ### 可转债打新  
   就是指在可转债还没有上市交易之前，公司开放一个机会，让大家买对应的可转债，这里的买，指的是申购。  

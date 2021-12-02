@@ -1,7 +1,7 @@
 ---
 title: 利用github+jsDelivr搭建图床
-date: 2021-11-26 11:57:09
-tags: 程序員技術
+date: 2021-12-01 11:57:09
+tags: 生活小技巧
 categories: 我的Coding生涯
 cover: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/desk_flat.jpeg
 ---
@@ -29,7 +29,7 @@ cover: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/desk_flat.jpeg
 <br>
 2.详细设置
 <br>
-![img](https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/imgtube_02.png)
+![](https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/imgtube_02.png)
 <br>
 3.此仓库你可以上传你的图片，用来达到存储的目的
 
@@ -41,15 +41,15 @@ cover: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/desk_flat.jpeg
 
 1.前往picgo的GitHub仓库下载此工具，[点击前往下载](https://github.com/Molunerfinn/PicGo)，如果下载速度太慢，科学上网下载会快一点，下载好后安装即可 2.然后，在 github 上创建一个 token1，点击右上角账号上的 settings
 <br>
-![img](https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/imgtube_03.png)
+![](https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/imgtube_03.png)
 <br>
 3.然后左侧点击 developer settings ，再点击 personal access tokens ，然后点击 generate new token
 <br>
-![img](https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/ff87b08f8c2f7a2b534880240adfef91.png)
+![](https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/ff87b08f8c2f7a2b534880240adfef91.png)
 <br>
 4.Note 用来说明你创建 token 的用途，然后 scopes 只需要选 repo 的所有选项即可
 <br>
-![img](https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/455006a56bbea4bd48e3a976cca31762.png)
+![](https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/455006a56bbea4bd48e3a976cca31762.png)
 <br>
 5.最后拉到底部，点击 generate token ，即可成功 
 
@@ -57,11 +57,11 @@ cover: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/desk_flat.jpeg
 
 6.找个地方记下这一串 token，等会需要用到。（如果没有记住，等再查看时就只能重新生成了）
 <br>
-![img](https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/78b68fca4d052b832cb2d74e28680423.png)
+![](https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/78b68fca4d052b832cb2d74e28680423.png)
 <br>
 7.打开picgo工具进行配置
 <br>
-![img](https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/81e2217a93f056042a1ffa82b36fc945.jpeg)
+![](https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/81e2217a93f056042a1ffa82b36fc945.jpeg)
 <br>
 - 在 PicGo 中，找到图床设置 -> GitHub图床。
 - 仓库名即为你的github账号/图片仓库名
@@ -75,14 +75,14 @@ cover: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/desk_flat.jpeg
 
 1.点击上传图片，此时如果你上面的配置正确，上传的图片将会同步至github仓库内
 <br>
-![img](https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/f8b6d564267ba617d49216d602a842c3.jpeg)
+![](https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/f8b6d564267ba617d49216d602a842c3.jpeg)
 <br>
 2.点击相册，可见你的图片，点击此按钮，即可复制图片链接
 <br>
-![img](https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/dbbd49a6d24bc6f6cc4edbef951847d4.jpeg)
+![](https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/dbbd49a6d24bc6f6cc4edbef951847d4.jpeg)
 <br>
 3.你也可以指定上传后的链接格式
 <br>
-![img](https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/4466c69df1bb036fa3a8508ac66b4a5a.jpeg)
+![](https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/4466c69df1bb036fa3a8508ac66b4a5a.jpeg)
 <br>
 4.得到链接后，你就可以尽情的使用了，加载速度十分迅速，白嫖真香，以后想要存图片就上传，接着复制链接出来使用，非常的方便

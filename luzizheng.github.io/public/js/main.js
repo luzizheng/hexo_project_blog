@@ -18,7 +18,7 @@ function loadMainJs($, moment, ClipboardJS, config) {
             $('.justified-gallery > p > .gallery-item').unwrap();
         }
         // 调整gallery图片渲染尺寸
-        $('.justified-gallery').justifiedGallery({rowHeight: 230, margins: 4});
+        $('.justified-gallery').justifiedGallery({rowHeight: 177, margins: 8});
     }
 
     if (typeof moment === 'function') {

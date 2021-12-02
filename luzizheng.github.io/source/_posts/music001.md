@@ -1,7 +1,7 @@
 ---
 title: John Frusciante
 excerpt: John Motherfxxker Frusciante!!!
-date: 2021-11-26 11:57:09
+date: 2020-11-26 11:57:09
 tags: 
     - 音樂
     - 吉他

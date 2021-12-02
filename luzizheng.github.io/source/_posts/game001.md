@@ -7,7 +7,7 @@ cover: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/dont-starve-toget
 banner: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/dont-starve-together-commands.jpeg
 ---
 
-![img](https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/dont-starve-together-commands.jpeg)
+![](https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/dont-starve-together-commands.jpeg)
 
 <style>
     ol li p {
