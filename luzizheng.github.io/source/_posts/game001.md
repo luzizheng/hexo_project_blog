@@ -1,13 +1,15 @@
 ---
 title: 饥荒联机版控制台代码大全
+top: 7
 date: 2021-11-26 11:57:09
 tags: 遊戲 
 categories: 第九藝術探索
-cover: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/dont-starve-together-commands.jpeg
+thumbnail: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/dont-starve-together-commands.jpeg
 banner: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/dont-starve-together-commands.jpeg
 ---
 
-![](https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/dont-starve-together-commands.jpeg)
+
+
 
 <style>
     ol li p {
@@ -15,6 +17,9 @@ banner: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/dont-starve-toge
         font-weight: bold;
     }
 </style>
+
+
+<!-- more -->
 
 ## 玩家命令
 

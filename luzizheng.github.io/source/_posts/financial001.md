@@ -4,14 +4,17 @@ top: 6
 date: 2018-11-29 09:43:51
 tags: 理財
 categories: 小白理财
-cover: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/stock-vector-flat-design-illustration-concepts-for-business-analysis-and-planning-team-work-financial-report-302821412.jpeg
+thumbnail: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/stock-vector-flat-design-illustration-concepts-for-business-analysis-and-planning-team-work-financial-report-302821412.jpeg
 recommend: 0
 ---
+
 
 ## 国债逆回购
 
 - 优点：零风险
 - 缺点：（陷阱）实际资金占用时间，1是证券公司要拖延1个工作日回款，2是周末不计入国债回购时间。所以有结论说**连续做上1年国债逆回购，年收益率也不会超过1年定期存款的**。
+
+<!-- more -->
 
 <br>
 

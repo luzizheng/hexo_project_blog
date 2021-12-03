@@ -19,7 +19,7 @@ top: 9
 + CategoryInfo : SecurityError: (:) []，ParentContainsErrorRecordException
 
 + FullyQualifiedErrorId : UnauthorizedAccess
-
+<!-- more -->
 问题截图
 查了查之后发现是在计算机上启动 Windows PowerShell 时，执行策略很可能是 Restricted（默认设置）。
 

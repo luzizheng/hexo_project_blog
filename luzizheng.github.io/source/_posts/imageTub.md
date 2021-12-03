@@ -1,9 +1,11 @@
 ---
 title: 利用github+jsDelivr搭建图床
+top: 10
+toc: true
 date: 2021-12-01 11:57:09
 tags: 生活小技巧
 categories: 我的Coding生涯
-cover: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/desk_flat.jpeg
+thumbnail: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/desk_flat.jpeg
 ---
 
 ## 前言
@@ -17,7 +19,7 @@ cover: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/desk_flat.jpeg
 
 4.市面上形形色色的免费图床，但都有时间期限，要么就是速度慢，存储空间小，有的还限流量 
 
-
+<!-- more -->
 
 现在可以利用jsdelivr加速github仓库来实现图床，无论是否使用jsdelivr你都可以利用github搭建一个图床，但缺点是国内加载速度非常慢，严重影响我们的需求，为此我们还需要利用jsdelivr的[cdn](https://cloud.tencent.com/product/cdn?from=10680)加速，jsdelivr在国内的节点有上百个，这样我们就得到了一个访问速度贼快，且免费，空间无限的一个图床。 下面就是教程了，有疑问有错误请评论指出，谢谢，仅以此文章帮助烂记性的自己和正在观看此博客的你。
 
