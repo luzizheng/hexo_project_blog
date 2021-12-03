@@ -1,5 +1,6 @@
 ---
 title: John Frusciante
+top: 8
 excerpt: John Motherfxxker Frusciante!!!
 date: 2020-11-26 11:57:09
 tags: 
