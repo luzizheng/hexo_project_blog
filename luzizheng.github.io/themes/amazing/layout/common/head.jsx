@@ -122,7 +122,9 @@ module.exports = class extends Component {
                 break;
             }
         }
-        if (IsPC === false){
+        if (IsPC){
+            
+        } else {
             hasLive2D = false;
         }
 
