@@ -5,7 +5,7 @@ toc: true
 date: 2021-12-01 11:57:09
 tags: 生活小技巧
 categories: 我的Coding生涯
-thumbnail: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/desk_flat.jpeg
+thumbnail: https://cdn.jsdelivr.net/gh/luzizheng/images@master/img/pixel-gif-12.gif
 ---
 
 ## 前言

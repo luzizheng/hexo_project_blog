@@ -109,6 +109,24 @@ module.exports = class extends Component {
         }
 
         var hasLive2D = has_live_2D_switch == undefined || has_live_2D_switch;
+
+        var navigator = {
+            userAgent: 'node.js'
+        };
+        var userAgentInfo = navigator.userAgent;
+        var Agents = ["Android","iPhone","SymbianOS","Windows Phone","iPad","iPod"];
+        var IsPC = true;
+        for (var v = 0; v < Agents.length; v++){
+            if (userAgentInfo.indexOf(Agents[v]) > 0) {
+                flag = false;
+                break;
+            }
+        }
+        if (IsPC === false){
+            hasLive2D = false;
+        }
+
+
         var globalGray = global_gray != undefined && global_gray;
         const isValineComment = comment != undefined && comment.type != undefined && comment.type == 'valine';
 

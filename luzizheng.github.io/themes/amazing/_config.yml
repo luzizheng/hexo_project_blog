@@ -77,11 +77,11 @@ navbar:
         分類: /categories
         標籤: /tags
         歸檔: /archives
-        唱片: /album
-        # Friend: /friend
         留言: /message
+        唱片柜: /album
+        # Friend: /friend
         # Self-talking: /self-talking
-        音樂: /music
+        听音室: /music
         # Media: /media
         關於: /about
     # Links to be shown on the right of the navigation bar
@@ -288,10 +288,10 @@ widgets:
     #         Hexo: 'https://hexo.io'
     #         Bulma: 'https://bulma.io'
     # Latest comment widget configurations
-    -
-        # Where should the widget be placed, left sidebar or right sidebar
-        position: right
-        type: latest_comment
+    # -
+    #     # Where should the widget be placed, left sidebar or right sidebar
+    #     position: right
+    #     type: latest_comment
     # Recent posts widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
