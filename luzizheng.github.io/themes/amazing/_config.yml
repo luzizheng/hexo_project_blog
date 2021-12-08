@@ -19,7 +19,7 @@ head:
         type: blog
         # Page URL (og:url) (optional)
         # You should leave this blank for most of the time
-        url: /
+        url: https://www.arloou.com
         # Page cover (og:image) (optional)
         # You should leave this blank for most of the time
         image: https://cdn.jsdelivr.net/gh/removeif/removeif-demo@latest/img/avatar.png
@@ -402,5 +402,5 @@ website_start_time: #2018/11/11 00:00:00 #网站运行开始时间,不填不显�
 side_music_netease_id: 130215767 #侧边栏网易云歌单id
 busuanzi_only_count: ture #当上面plugins中busuanzi: true时，此配置busuanzi_only_count为true时，网站不显示不蒜子统计数据，但是会每次统计。false时显示统计数据。
 has_live_2D_switch: ture #live2D开关 true-开 false-关
-use_pjax: true #是否pjax
+use_pjax: false #是否pjax
 
